@@ -10,4 +10,8 @@ directory is where the work is done.
 
 The staging directory lets you group files before commiting.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+by adding one logical change per add
 
