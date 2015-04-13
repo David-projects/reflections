@@ -15,3 +15,28 @@ change?
 
 by adding one logical change per add
 
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+when updating a program or making large changes, working on a new version.
+
+
+How do the diagrams help you visualize the branch structure?
+Lets me see how branches work
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+the coins changes get moved into the master branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Git find the differents and works out if they are ok, when it does not know it
+asks
+
+
+
+
